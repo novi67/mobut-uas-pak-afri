@@ -1,0 +1,10 @@
+[11-Jan-2026 01:59:33 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bere9277_db_novi.houses' doesn't exist in /home/bere9277/public_html/novi.bersama.cloud/api-novi/houses/list.php:11
+Stack trace:
+#0 /home/bere9277/public_html/novi.bersama.cloud/api-novi/houses/list.php(11): PDO->query('SELECT * FROM h...')
+#1 {main}
+  thrown in /home/bere9277/public_html/novi.bersama.cloud/api-novi/houses/list.php on line 11
+[11-Jan-2026 02:00:05 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bere9277_db_novi.houses' doesn't exist in /home/bere9277/public_html/novi.bersama.cloud/api-novi/houses/list.php:11
+Stack trace:
+#0 /home/bere9277/public_html/novi.bersama.cloud/api-novi/houses/list.php(11): PDO->query('SELECT * FROM h...')
+#1 {main}
+  thrown in /home/bere9277/public_html/novi.bersama.cloud/api-novi/houses/list.php on line 11
